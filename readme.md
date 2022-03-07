@@ -1,4 +1,4 @@
-# Visualization Implementation for Gene circle
+# Visualization Implementation for Acr-Aca interactions on gene circle and Crispr-Cas chain
 
 Implemented in AcrDB website (https://bcb.unl.edu/AcrDB/) 
 
