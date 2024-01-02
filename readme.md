@@ -8,8 +8,9 @@ Example Page (https://bcb.unl.edu/AcrDB/anti_crispr_results.php?type=ncbi&organi
 
 ## Visuzaltion Example
 
-<!-- ![Viualization](./GCF_000988685.1_gba_graphic_view.png) -->
-<img src="./GCF_000988685.1_gba_graphic_view.png" alt="drawing" width=200%/>
+
+![image](https://github.com/linnabrown/Acr_Aca_visualization/assets/9990190/05152594-2fa6-46c5-9617-a202cdd22764)
+
 
 ## Citation
 
